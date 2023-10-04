@@ -11,7 +11,8 @@
 ###Addition
 ##sum=int(input('Enter the number'))
 ##sum2=int(input('Enter the number'))
-##ans=sum + sum2
+##sum3=int(input('Enter the number'))
+##ans=sum + sum2 + sum3
 ##print("The result of the calculation is",ans)
 
 ###Subtraction
